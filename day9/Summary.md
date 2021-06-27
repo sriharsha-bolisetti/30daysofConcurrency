@@ -1,5 +1,5 @@
 ### What did I learn today?
-- Threads API
+- Wait and Notify
 ### Resources
 - Java Threads and the Concurrency Utilities
 by Jeff Friesen
